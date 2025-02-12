@@ -18,8 +18,8 @@ Mandalay, and Yangon—highlights key trends and growth opportunities. **Health 
 emerge as top-performing categories, peaking on weekends (e.g., Health & Beauty reaching **$390.02** on Saturdays).
 In contrast, **Fashion Accessories** and **Electronics** struggle midweek, hitting lows on Wednesdays (**$243.57**) and Mondays (**$243.99**).
 
-Regional sales insights show Naypyitaw leading in total sales (**$110,490.93**) and average spending per transaction (**$337.89**), 
-while Mandalay records the lowest total sales (**$104,534.93**) but maintains strong per-transaction spending (**$317.74**). 
+Regional sales insights show Naypyitaw leading in total sales (**$110 490.93**) and average spending per transaction (**$337.89**), 
+while Mandalay records the lowest total sales (**$104 534.93**) but maintains strong per-transaction spending (**$317.74**). 
 Yangon exhibits high transaction volume but lower average spending (**$312.27** per purchase), suggesting an opportunity for upselling and bundling strategies.
 
 Customer behavior trends indicate that female shoppers dominate afternoon sales (**46K** transactions), while male shoppers prefer evenings (**27K** transactions). 
